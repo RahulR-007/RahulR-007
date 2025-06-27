@@ -1,80 +1,72 @@
-# 👋 Hi, I'm Rahul R
+<h1 align="center">Hi 👋, I'm Rahul R</h1>
+<h3 align="center">A Computer Science Engineering student passionate about user research, design, and front-end development</h3>
 
-🎓 Computer Science Engineering student at PSG College of Technology (2024–2027)  
-💻 Aspiring Web Developer | Research-Oriented  
-📍 India  
-📞 +91-9345738725  
-📧 rahul.ramsraji@gmail.com  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulr" /> </p>
 
----
-
-## 🚀 About Me
-
-I’m a motivated and detail-oriented Computer Science student with a growing interest in user research, product analysis, and front-end development. I enjoy blending design thinking with development to create intuitive digital experiences.
-
-- 🔍 Passionate about **user-centered design**
-- 💡 Currently learning **JavaScript** to bridge research with front-end development
-- 🌐 Experienced with **HTML**, **CSS**, and design workflows
-- 🤝 Open to collaborations in **UI/UX**, **web development**, and **research-oriented projects**
+- 🔭 Currently focused on learning **JavaScript** to strengthen front-end development skills  
+- 🌱 Exploring areas such as **user-centered design** and **responsive web development**  
+- 👥 Interested in collaborating on projects related to **UI/UX, portfolio websites**, and **front-end development**  
+- 💼 Open to freelance opportunities and internships in **web design and development**  
+- 💬 Comfortable working with **HTML, CSS, UI workflows**, and **user research**  
+- 📧 Email: **rahul.ramsraji@gmail.com**  
+- 📱 Phone: **+91-9345738725**
 
 ---
 
-## 🧠 Skills
+## 🛠️ Languages and Tools:
 
-### 💻 Programming
-- C, Java, Python  
-- HTML, CSS  
-- JavaScript (learning)
-
-### 🎨 Design & Research
-- User Research  
-- Design Thinking  
-- Workflow Planning  
-- Web Design
-
----
-
-## 📁 Experience
-
-### 🌟 Freelance Web Developer  
-**Stellaraa** ([stellaraa.com](https://www.stellaraa.com)) – *2024*  
-- Worked directly with the client to understand website requirements  
-- Designed site structure and workflow aligned with business goals  
-- Coordinated with the development team to deliver a user-friendly interface  
-- Contributed to the visual and functional direction of the website  
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 📚 Internships
+## 📈 GitHub Stats
 
-### ICT Academy & Open Weaver – *2023*  
-- Created Generative AI features and integrated them into web platforms  
-- Hosted and deployed websites with AI capabilities
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulr&show_icons=true&locale=en" alt="rahulr" />
+</p>
 
----
-
-## 💼 Projects
-
-### ⚖️ LawCraft (2024–2025)  
-- Developed an **AI-based legal chatbot** and document generator  
-- Designed payment flow and managed backend logic  
-- Handled **database setup and administration**
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulr&" alt="rahulr" />
+</p>
 
 ---
 
-## 🎓 Education
+## 📚 Projects
 
-**Bachelor of Engineering – Computer Science**  
-*PSG College of Technology*  
-2024 – 2027
+### 💼 Stellaraa (Freelance)
+- Collaborated with the client to design website structure and content flow  
+- Helped align the team workflow with client expectations  
+- Delivered a responsive and visually appealing layout  
+🔗 [stellaraa.com](https://www.stellaraa.com)
+
+### ⚖️ LawCraft (AI-based Legal Chatbot & Document Generator)
+- Designed and developed backend logic for legal document creation  
+- Streamlined payment systems and user workflows  
+- Managed database design and transactions  
+
+---
+
+## 🏫 Education
+
+🎓 **Bachelor of Engineering – Computer Science**  
+PSG College of Technology  
+*2024 – 2027*
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **rahul.ramsraji@gmail.com**  
-- 📱 **+91-9345738725**  
+- 📧 Email: rahul.ramsraji@gmail.com  
+- 📱 Phone: +91-9345738725  
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate.*
+⭐️ *Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi.*  
