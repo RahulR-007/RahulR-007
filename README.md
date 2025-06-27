@@ -25,20 +25,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulr&show_icons=true&locale=en" alt="rahulr" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulr&" alt="rahulr" />
-</p>
-
----
-
 ## 📚 Projects
 
 ### 💼 Stellaraa (Freelance)
